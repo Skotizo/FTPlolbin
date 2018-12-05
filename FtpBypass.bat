@@ -1,0 +1,1 @@
+ftp.exe -s:input.txt
