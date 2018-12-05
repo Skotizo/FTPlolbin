@@ -7,7 +7,7 @@ The ! symbol is required before each command
 
 You can add multiple commands to the input.txt file by seperating each command by a line.
 
-This research was found by via https://twitter.com/0xAmit/status/1070063130636640256
+This research was found via https://twitter.com/0xAmit/status/1070063130636640256
 
 
 ********************************
