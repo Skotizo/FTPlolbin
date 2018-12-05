@@ -1,1 +1,1 @@
-!powershell ipconfig
+!powershell calc.exe
